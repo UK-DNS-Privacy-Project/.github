@@ -28,7 +28,7 @@ We aim to formalize our structure by becoming a Community Interest Company (CIC)
 
 ### Contact Us 📬
 
-Website: dnsprivacy.org.uk
+Website: [dnsprivacy.org.uk](https://dnsprivacy.org.uk)
 
 Email: support@dnsprivacy.org.uk
 
